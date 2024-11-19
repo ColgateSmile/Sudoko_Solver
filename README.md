@@ -143,3 +143,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## **Acknowledgments**
 - Inspired by the challenge of solving Sudoku with AI techniques.
 - Built with love and `pygame`! 🎮
+![Sudoku Solver - CSP 0503seconds 48 moves](https://github.com/user-attachments/assets/c579add9-dd86-468f-89bf-1744df573e3e)
+![Naive_bruteForce](https://github.com/user-attachments/assets/f52b1c73-f1bf-4ff1-9b52-6daa035e1883)
