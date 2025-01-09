@@ -66,7 +66,7 @@ A Python-based Sudoku Solver that uses two distinct algorithms, **Naive Backtrac
 ### **2. Installation**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sudoku-solver.git
+   [git clone https:https://github.com/ColgateSmile/Sudoko_Solver.git]
    ```
 2. Navigate to the project directory:
    ```bash
